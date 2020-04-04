@@ -7,6 +7,4 @@ c# dataviz
 # graphe 3:
 <iframe title="[ Insert title here ]" aria-label="Split Bars" id="datawrapper-chart-on0fH" src="//datawrapper.dwcdn.net/on0fH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="517"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
-# graphe 4:
-<iframe title="[ Insert title here ]" aria-label="Split Bars" id="datawrapper-chart-on0fH" src="//datawrapper.dwcdn.net/on0fH/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="517"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
-</script>
+
